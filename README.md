@@ -23,4 +23,4 @@ Below you can change 2 things, but they are described separately in the file wha
 ### Planned updates for the future
 none
 
-- If you find bugs or have suggestions for an update open an issue or in the other case a pull-request.
+- If you find bugs or have suggestions for an update open an issue or a pull-request.
