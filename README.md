@@ -1,4 +1,4 @@
-## sv_components v1.0
+## lv_components v. 1.0
 
 ### How to install?
 1. download here
