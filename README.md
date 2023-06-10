@@ -36,4 +36,4 @@ none
 
 <!---------------------------------[ Badges ]---------------------------------->
 
-[Badge License]: https://img.shields.io/badge/-By_Lvcq_-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
+[Badge License]: https://img.shields.io/badge/-By_Lvcq1_-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
