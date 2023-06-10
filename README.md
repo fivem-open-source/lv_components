@@ -1,7 +1,10 @@
+
+
+[![Badge License]][License]   
 ## lv_components v. 1.0
 
 ### How to install?
-1. download here
+1. Download here
 2. unzip the .zip file
 3. you can rename the script as you like
 4. put it in the resources folder of your FiveM server.
@@ -24,3 +27,13 @@ Below you can change 2 things, but they are described separately in the file wha
 none
 
 - If you find bugs or have suggestions for an update open an issue or a pull-request.
+
+
+<!---------------------------------------------------------------------------->
+
+[License]: LICENSE
+
+
+<!---------------------------------[ Badges ]---------------------------------->
+
+[Badge License]: https://img.shields.io/badge/-By_Lvcq_-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
